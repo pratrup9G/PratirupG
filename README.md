@@ -1,19 +1,20 @@
-# github-profile-summary-cards-example
+Hi there I am Pratirup Goswami!! 👋
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+More about me- https://pratirupportfolio.herokuapp.com/
 
-```To create your profile README you need name the repo as your username```
+- 🔭 I’m currently working on ... Deep Learning
+- 🌱 I’m currently learning ... Android
+- 📫 How to reach me: ... Linkedin
 
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<!---![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArjunPrasadSarkhel&show_icons=true&theme=gruvbox)-->
 
-| :warning: | Don't forget to modify the image path (The correct path is under the profile-summary-card-output folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+![](https://komarev.com/ghpvc/?username=PratirupG&color=blueviolet&style=plastic&label=You+are+one+of+this+:D+Views=)
 
-[![](./profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratirupG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/PratirupG/github-profile-summary-cards)
+[![](./profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/PratirupG/github-profile-summary-cards)
+[![](./profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/PratirupG/github-profile-summary-cards)
+[![](./profile-summary-card-output/dracula/3-stats.svg)](https://github.com/PratirupG/github-profile-summary-cards)
+
+
